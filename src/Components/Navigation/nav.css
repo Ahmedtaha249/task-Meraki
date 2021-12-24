@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.link a{
+  padding: 20px;
+    margin: 15px;
+    text-decoration: none;
+    font-weight: bold;
+  
+}
+.l1{
+    width: 100px;
+    background-color: #CD1818;
+    border-radius: 6px ;
+    color:#fff;
+    
+}
+.l2{
+    width: 80px;
+    background-color: #CD1818;
+    border-radius: 6px;
+    color:#fff;
+    margin: 4px;
+}
+.l1:hover{
+    width: 100px;
+    background-color:#ECB365;
+    border-radius: 6px ;
+    color:#fff;
+}
+.l2:hover{
+    width: 100px;
+    background-color:#ECB365;
+    border-radius: 6px ;
+    color:#fff;
+}
